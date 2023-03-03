@@ -4,7 +4,7 @@
 
 This tutorial includes:
 - slide deck: intro to ML for Earth Sciences with an application
-- code: provided in the code/ directory
+- code: a tutorial that can be run with Google's Colaboratory
 
 
 ## Tensorflow Code

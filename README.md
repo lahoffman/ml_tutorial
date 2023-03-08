@@ -4,8 +4,8 @@
 
 This tutorial includes:
 - slide deck & lecture notes: intro to ML for Earth Sciences with an application
-- code: a tutorial that can be run with Google's Colaboratory
-- data: data required to run the tutorial
+- code: a tutorial that can be run with Google's Colaboratory [nn_regression.ipynb]
+- data: data required to run the tutorial [data/ALL_ITP_DAT.mat]
 
 
 ## Tensorflow Code

@@ -3,7 +3,7 @@
 ## Materials
 
 This tutorial includes:
-- slide deck: intro to ML for Earth Sciences with an application
+- slide deck & lecture notes: intro to ML for Earth Sciences with an application
 - code: a tutorial that can be run with Google's Colaboratory
 
 
